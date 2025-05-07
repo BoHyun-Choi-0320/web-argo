@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: argo-con
-        image: 798172178824.dkr.ecr.ap-northeast-2.amazonaws.com/argo:1
+        image: 798172178824.dkr.ecr.ap-northeast-2.amazonaws.com/argo:2
